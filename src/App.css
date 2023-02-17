@@ -1,0 +1,15 @@
+.form-container {
+  display: block;
+  justify-content: center;
+
+ 
+}
+
+.form-container form {
+  display: block;
+  padding: 10px 0;
+}
+
+.form-container button {
+  margin: 0 10px;
+}

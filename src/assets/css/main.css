@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.todo-item {
+  border: 1px solid #000;
+  background-color: lightgray;
+  border-radius: 4px;
+  margin: 10px 15px;
+}/*# sourceMappingURL=main.css.map */
